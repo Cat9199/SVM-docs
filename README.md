@@ -33,7 +33,6 @@
 - **الهدف:**  
   تحقيق تصنيف دقيق للبيانات الجديدة عن طريق تعميم النموذج.
 
-> المصدر: [TechTarget - What is a Support Vector Machine (SVM)](https://www.techtarget.com/whatis/definition/support-vector-machine-SVM) citeturn0search7
 
 ---
 
@@ -47,7 +46,6 @@
 - **تقنية Kernel Trick:**  
   تحويل البيانات غير الخطية إلى فضاء أعلى لتسهيل عملية الفصل.
 
-> المصدر: [شرح SVM بالعربي - YouTube](https://www.youtube.com/watch?v=zYHsfClLWsU) citeturn0search0
 
 ---
 
@@ -134,10 +132,5 @@
 - **التطبيقات:**  
   مفيدة في مجالات متعددة مثل تصنيف النصوص والصور.
 
----
-
-### سلايد 15: المصادر والمراجع
-- [TechTarget - What is a Support Vector Machine (SVM)](https://www.techtarget.com/whatis/definition/support-vector-machine-SVM) citeturn0search7  
-- [شرح SVM بالعربي - YouTube](https://www.youtube.com/watch?v=zYHsfClLWsU) citeturn0search0
 
 ---
